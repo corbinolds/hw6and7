@@ -1,0 +1,30 @@
+//	double yVelocity = (sin(90 - coneAngle) * (180 / M_PI)) * velocity;
+//	double xzVelocity = (cos(90 - coneAngle) * (180 / M_PI)) * velocity;
+
+//	if (circleAngle >= 0 && circleAngle <= 90) {
+
+//	}
+//	else if (circleAngle >= 90 && circleAngle <= 180) {
+
+//	}
+//	else if (circleAngle >= 180 && circleAngle <= 270) {
+	
+//	}
+//	else if (circleAngle >= 270 && circleAngle <= 360) {
+//		double tempAngle = circleAngle - 270;
+
+	//}
+//
+	//double xVelocity = 0;
+
+
+
+
+	//int maxAngle = 30;
+	//int minAngle = 0;
+	///int randConeAngle = rand() % (maxAngle - minAngle + 1) + minAngle;
+	//this->coneAngle = double(randConeAngle);
+
+	//// circle is 360 degrees
+	//int randCircleAngle = rand() % (361);
+	//this->circleAngle = double(randCircleAngle);
